@@ -71,13 +71,13 @@ Explore my repositories to see what I'm learning and building:
 
 <p align="left">
   <a href="mailto:radhika20rawat@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-radhika20rawat%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/radhika-rawat-9b2128382/">
-    <img src="https://img.shields.io/badge/LinkedIn-Radhika%20Rawat-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/radhika-rawat-9b2128382/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/radhika20rawat-glitch">
-    <img src="https://img.shields.io/badge/GitHub-Radhika%20Rawat-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/radhika20rawat-glitch" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
