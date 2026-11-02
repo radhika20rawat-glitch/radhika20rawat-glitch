@@ -8,10 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=radhika20rawat-glitch&label=Profile%20Visitors&color=0e75b6&style=flat" alt="Profile visitors" />
 </p>
 
-<p>
-  <em>Learning, building, and growing one project at a time.</em>
-</p>
-
 </div>
 
 ---
@@ -63,39 +59,25 @@
 
 Explore my repositories to see what I'm learning and building:
 
-- 🌦️ **WeatherWise** — A weather application built with Python, Flask, HTML, CSS, and JavaScript.
 - 🌐 **Web Development Practice** — HTML and frontend projects created while learning web development.
 - 💻 **C Projects** — Practice programs and small projects written in C.
 
 👉 [View all my repositories](https://github.com/radhika20rawat-glitch?tab=repositories)
 
----
-
-## 📊 GitHub Overview
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=radhika20rawat-glitch&show_icons=true&hide_border=true&theme=tokyonight" alt="Radhika's GitHub stats" />
-
-  <br />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhika20rawat-glitch&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
-
-</div>
 
 ---
 
 ## 🤝 Connect With Me
 
-<p>
+<p align="left">
   <a href="mailto:radhika20rawat@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/radhika-rawat-9b2128382/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  <a href="https://linkedin.com/in/radhika-rawat-9b2128382/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/radhika20rawat-glitch">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  <a href="https://github.com/radhika20rawat-glitch" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
